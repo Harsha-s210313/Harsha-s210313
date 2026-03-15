@@ -8,9 +8,9 @@
 
 | Project | Description |
 |---|---|
-| [RTOS Scheduler](https://github.com/Harsha-s210313/RTOS_SCHEDULER) | Bare-metal round-robin + FreeRTOS scheduler on STM32F411RE — TCB structs, SysTick preemption, PendSV context switching in inline assembly. No HAL. |
-| [OTA Bootloader](https://github.com/Harsha-s210313/OTA_Bootloader) | Secure OTA bootloader with SHA-256 integrity checks and ECDSA P-256 firmware signing. Python signing server included. |
-| [Fixed-Point DSP Library](https://github.com/Harsha-s210313/FIXED_POINT_DSP) | DSP primitives using ARM SIMD intrinsics on Cortex-M4 — 3–5x throughput gains over scalar floating-point. |
+| [RTOS Scheduler](https://github.com/Harsha-s210313/rtos-scheduler) | Bare-metal round-robin + FreeRTOS scheduler on STM32F411RE — TCB structs, SysTick preemption, PendSV context switching in inline assembly. No HAL. |
+| [OTA Bootloader](https://github.com/Harsha-s210313/ota-bootloader) | Secure OTA bootloader with SHA-256 integrity checks and ECDSA P-256 firmware signing. Python signing server included. |
+| [Fixed-Point DSP Library](https://github.com/Harsha-s210313/fixed-point-dsp) | DSP primitives using ARM SIMD intrinsics on Cortex-M4 — 3–5x throughput gains over scalar floating-point. |
 | [LRU Cache Controller](https://github.com/Harsha-s210313/embedded-lru-cache) | 4-way set-associative LRU cache on STM32F411RE — 85%+ hit rate, 75% latency reduction. Bare-metal ARM assembly. |
 
 ---
